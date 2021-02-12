@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_2021_5.6_ReferenzenVergleicheTypen", "Csharp_2021_5.6_ReferenzenVergleicheTypen\Csharp_2021_5.6_ReferenzenVergleicheTypen.csproj", "{61495752-8FC0-4C31-A549-A0BC79422898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61495752-8FC0-4C31-A549-A0BC79422898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61495752-8FC0-4C31-A549-A0BC79422898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61495752-8FC0-4C31-A549-A0BC79422898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61495752-8FC0-4C31-A549-A0BC79422898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4776A00-317A-4C03-9A56-6E30112F1E11}
+	EndGlobalSection
+EndGlobal
